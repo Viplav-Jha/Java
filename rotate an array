@@ -2,6 +2,7 @@
 // d elements
 
 class RotateArray {
+
 	/*Function to left rotate arr[] of size n by d*/
 	void leftRotate(int arr[], int d, int n)
 	{
@@ -35,4 +36,4 @@ class RotateArray {
 	}
 }
 
-// This code has been contributed by Mayank Jaiswal
+// This code has been contributed #hacktoberfest
